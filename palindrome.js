@@ -31,5 +31,5 @@ function palindrom(str) {
     }
 }
 
-console.log(palindrom("OLLLO"))
+console.log(palindrom("HLLLO"))
 
