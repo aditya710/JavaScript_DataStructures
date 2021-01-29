@@ -1,5 +1,5 @@
 
-    ar = []
+    ar = [1,2,1,2,1,2]
     var result = 0;
     
     var dict = {};
@@ -16,5 +16,5 @@
     for (let elm of Object.keys(dict)){
         var answer =answer+ Math.floor(dict[elm]/2)
     }
-    return answer
+    console.log(answer)
 
